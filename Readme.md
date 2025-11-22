@@ -68,3 +68,4 @@ Expected Output: The script should iterate through all dishes and print the best
 
 Example Output: Dosa: Best rated at Mess A (4.2 stars)
 
+<img width="892" height="203" alt="Screenshot 2025-11-22 at 8 39 54 PM" src="https://github.com/user-attachments/assets/ad75a1bd-e4d9-412e-9385-1f690a5d8da9" />
